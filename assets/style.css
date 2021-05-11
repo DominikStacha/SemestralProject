@@ -1,0 +1,14 @@
+.error {
+    color: red;
+}
+
+.NA {
+    font-weight: bold;
+    color: black !important;
+    font-size: 105%;
+}
+
+.title {
+    font-weight: bold;
+    font-size: 125%;
+}
